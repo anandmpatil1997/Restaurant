@@ -1,0 +1,302 @@
+[
+    {
+            "id":1,
+        "name":"URU Brewpark",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/06/deep-dish-pizza-chicago.jpg?quality=82&strip=1&w=800",
+        "total_votes": 766,
+        "reviews" : 512,
+        "cost" :50,        
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 5
+        
+    },
+    {    "id":2,
+        "name":"6 BALLYGUNGE PLACE, KOLKATA",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/1-1135AD.jpg",
+        "total_votes": 7456,
+        "reviews" : 512,
+        "cost" : 53,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 5
+        
+    },
+    {    "id":3,
+        "name":"AISH, HYDERABAD",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/3-6BallygungePlace.jpg",
+        "total_votes": 7433,
+        "reviews" : 5152,
+        "cost" : 55,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 5
+        
+    },
+    {    "id":4,
+        "name":"AGASHIYE, AHMEDABAD",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"false",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/5-Agashiye.jpg",
+        "total_votes": 8456,
+        "reviews" : 6712,
+        "cost" : 55,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 5
+        
+    },
+    {    "id":5,
+        "name":"AMBRAI, UDAIPUR",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"false",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/6-Ambrai.jpg",
+        "total_votes": 9956,
+        "reviews" : 6662,
+        "cost" : 63,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 4
+        
+    },
+    {    "id":6,
+        "name":"AMETHYST, CHENNAI",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/7-Amethyst.jpg",
+        "total_votes": 10056,
+        "reviews" : 9862,
+        "cost" : 67,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 4
+        
+    },
+    {    "id":7,
+        "name":"BADEMIYA, MUMBAI",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/8-Bademiya.jpg",
+        "total_votes": 3056,
+        "reviews" : 162,
+        "cost" : 68,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 4
+        
+    },
+    {    "id":8,
+        "name":"BAWARCHI, HYDERABAD",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/9-Bawarchi.jpg",
+        "total_votes": 10056,
+        "reviews" : 9862,
+        "cost" : 70,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 4
+        
+    },
+    {    "id":9,
+        "name":"BHARAWAN DA DHABA, AMRITSAR",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/7-Amethyst.jpg",
+        "total_votes": 12056,
+        "reviews" : 9862,
+        "cost" : 75,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 3
+        
+    },
+    {    "id":10,
+        "name":"BLACK SHEEP BISTRO, GOA",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/11-BlackSheepBistro.jpg",
+        "total_votes": 2056,
+        "reviews" : 562,
+        "cost" : 80,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 3
+        
+    },
+    {    "id":11,
+        "name":"BRITANNIA & COMPANY, MUMBAI",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/7-Amethyst.jpg",
+        "total_votes": 1056,
+        "reviews" : 962,
+        "cost" : 87,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 3
+        
+    },{ "id":12,
+        "name":"BUKHARA, DELHI",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/13-Bukhara.jpg",
+        "total_votes": 13056,
+        "reviews" : 5862,
+        "cost" : 90,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 3
+        
+    },
+    {    "id":13,
+        "name":"CAFFÉ PALLADIO, JAIPUR",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/14-CaffePalladio.jpg",
+        "total_votes": 12056,
+        "reviews" : 6862,
+        "cost" : 92,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 2
+        
+    },
+    {    "id":14,
+        "name":"CRYSTAL RESTAURANT, AMRITSAR",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/15-Crystal.jpg",
+        "total_votes": 15056,
+        "reviews" : 7862,
+        "cost" : 95,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 2
+        
+    },
+    {    "id":15,
+        "name":"THE EMBASSY, DELHI",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"flase"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/16-Embassy.jpg",
+        "total_votes": 2056,
+        "reviews" : 862,
+        "cost" : 96,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 2
+        
+    }, 
+    {    "id":16,
+        "name":"THE FATTY BAO, BANGALORE",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"false"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/17-FattyBao.jpg",
+        "total_votes": 17056,
+        "reviews" : 6462,
+        "cost" : 11,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 2
+        
+    },
+    {    "id":17,
+        "name":"GINGER HOUSE, COCHIN",
+        "payment_method":{
+                            "card":"flase",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/17-FattyBao.jpg",
+        "total_votes": 7056,
+        "reviews" : 2462,
+        "cost" : 12,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 1
+        
+    },
+    {    "id":18,
+        "name":"HANWANT MAHAL, JODHPUR",
+        "payment_method":{
+                            "card":"flase",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/19-HanwantMahal.jpg",
+        "total_votes": 5056,
+        "reviews" : 3462,
+        "cost" : 12,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 1
+        
+    },
+    {    "id":19,
+        "name":"HOTEL SARAVANA BHAVAN, CHENNA",
+        "payment_method":{
+                            "card":"true",
+                            "upi":"true",
+                            "cash":"flase"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/19-HanwantMahal.jpg",
+        "total_votes": 6056,
+        "reviews" : 1462,
+        "cost" : 13,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 1
+        
+    },
+    {    "id":20,
+        "name":"INDIAN ACCENT, DELHI",
+        "payment_method":{
+                            "card":"false",
+                            "upi":"true",
+                            "cash":"true"
+                        },
+        "image":"https://www.greavesindia.co.uk/wp-content/uploads/2017/11/21-IndianAccent.jpg",
+        "total_votes": 5056,
+        "reviews" : 3462,
+        "cost" : 12,
+        "categories":["Continental","Pizza","Asian","Dessert"],
+        "stars": 1
+        
+    }
+]
